@@ -1,1 +1,2 @@
-"# MobileAppDevelopment" 
+# Instructions On How To Use The App
+When the user runs this project on visual studio 2017 they will be routed to the "Weather" page of the application by default. The user will have the option to either to enter a location that they wish to get the weather for, or if they are on an android device they can use their location to recieve the weather. The user will also have the option to chose to whether to recieve the weather by metric or imperial format. When the user wants to recieve the weather they must click on the "Get Weather" button. When the weather has been retrieved the user can click on the "Forcast" tab to see the five-day forecast for the the area. 
