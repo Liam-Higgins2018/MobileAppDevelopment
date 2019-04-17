@@ -1,0 +1,165 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "5a20805b08a47a12896d30dee2d81b4d1b8f527b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "MyWeather/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "11.0.2",
+          "Plugin.Permissions": "3.0.0.12",
+          "Refractored.MvvmHelpers": "1.3.0",
+          "Xamarin.Essentials": "0.9.1-preview",
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "MyWeather.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.UniversalWindowsPlatform/6.2.8": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "Plugin.Permissions/3.0.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Refractored.MvvmHelpers/1.3.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/MvvmHelpers.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/0.9.1-preview": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/3.1.0.697729": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyWeather/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.UniversalWindowsPlatform/6.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JhqDsO3qYrhF9xKdIkoP1hqi6o0UuMdyts7BXtKXXMTN8EAFJ9WPLAs5w48gLXwgiAu4ThIr+4UizVrcX4mPnw==",
+      "path": "microsoft.netcore.universalwindowsplatform/6.2.8",
+      "hashPath": "microsoft.netcore.universalwindowsplatform.6.2.8.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Plugin.Permissions/3.0.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R8Rlzfci1byoPBGOiJfCMzu0HhhN6Q4Vq4YizlF41W946NEmoL/Mb8U5caP5t5KfSbdPQpzdQ9JfM8fxPG8pfw==",
+      "path": "plugin.permissions/3.0.0.12",
+      "hashPath": "plugin.permissions.3.0.0.12.nupkg.sha512"
+    },
+    "Refractored.MvvmHelpers/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/6+kdA5x7jjYQ4Z/jRO7KdqF7bTW+Uh3GASpjTbJx6e3S1ujqbWew+5QHAMmLsiFMDc/0uNG1Zzdp/rZOobC0g==",
+      "path": "refractored.mvvmhelpers/1.3.0",
+      "hashPath": "refractored.mvvmhelpers.1.3.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/0.9.1-preview": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gHEyqijtFwhPjr3qVxYf4OpA7oXg193AdaXnFwv7834iVcCsphlZS6TXIwxnbd6aPgcX07X3hllBxUU6KKwjhg==",
+      "path": "xamarin.essentials/0.9.1-preview",
+      "hashPath": "xamarin.essentials.0.9.1-preview.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.1.0.697729": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oYfHpCY9i9wN4vLllsIhzDZY5iOCUtZ3RHxID1fiXOcf7yL9UA16NUsI8opoNmpv1Ru2lTGG9ZKKT1sYS6DLjA==",
+      "path": "xamarin.forms/3.1.0.697729",
+      "hashPath": "xamarin.forms.3.1.0.697729.nupkg.sha512"
+    }
+  }
+}
